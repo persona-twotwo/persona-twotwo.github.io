@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "0395f792b2287beb",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "test/assets/images/bio-photo.jpg"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -89,6 +99,8 @@
   "active": "5bbf681f5f1b02b2",
   "lastOpenFiles": [
     "README.md",
+    "test/assets/images/bio-photo.jpg",
+    "test/assets/images/bio-photo-2.jpg",
     "screenshot-layouts.png",
     "screenshot.png",
     "docs/_docs/01-quick-start-guide.md",
