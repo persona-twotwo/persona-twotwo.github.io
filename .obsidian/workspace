@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "9a44c6167ab1c26c",
+    "id": "4225a96ab5931637",
     "type": "split",
     "children": [
       {
-        "id": "411ad139948f77d6",
+        "id": "5bbf681f5f1b02b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eaced8e290a81b49",
+    "id": "d33fa2f50a09fb14",
     "type": "split",
     "children": [
       {
-        "id": "ed593652a045345e",
+        "id": "a6d3013f64782688",
         "type": "tabs",
         "children": [
           {
-            "id": "472bb4c4710eca6c",
+            "id": "b13d99b4f614f820",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "381fb9abb75cd7fd",
+            "id": "7aefdaf9f7afcac7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "9ed3be510506dad7",
+    "id": "f1f3f6469d2ec93c",
     "type": "split",
     "children": [
       {
-        "id": "bfbcadfef790b81b",
+        "id": "613ac6407812f97c",
         "type": "tabs",
         "children": [
           {
-            "id": "8346153b51acc15d",
+            "id": "138a312abb9ab148",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -86,8 +86,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "411ad139948f77d6",
+  "active": "5bbf681f5f1b02b2",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "screenshot-layouts.png",
+    "screenshot.png",
+    "docs/_docs/01-quick-start-guide.md",
+    "test/_pages/404.md"
   ]
 }
